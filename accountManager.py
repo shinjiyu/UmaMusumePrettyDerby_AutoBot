@@ -3,12 +3,14 @@
 import pickle
 
 class Account:
-    def __init__(self, username, password, device_id, is_registered, horse_girl_card_list):
+    def __init__(self, username, password, account_id, device_id, is_registered, horse_girl_card_list):
         self.username = username
+        self.account_id = account_id
         self.password = password
         self.device_id = device_id
         self.is_registered = is_registered
         self.horse_girl_card_list = horse_girl_card_list
+
 
 
 class AccountManager:
