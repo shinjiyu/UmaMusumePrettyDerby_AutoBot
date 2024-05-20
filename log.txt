@@ -1,0 +1,399 @@
+2023-10-11 00:07:58,742 INFO Accounts loaded from Data/account.data
+2023-10-11 00:07:58,744 INFO Device manager initialized
+2023-10-11 00:07:58,744 INFO Device created with port 16384
+2023-10-11 00:07:58,744 INFO Device created with port 16416
+2023-10-11 00:07:58,745 INFO Accounts retrieved for device id 0
+2023-10-11 00:07:58,745 INFO Account myra86wittermf2@hotmail.com added to device 0
+2023-10-11 00:07:58,745 INFO Account melinda_torresfoph@hotmail.com added to device 0
+2023-10-11 00:07:58,745 INFO Account nanette47smithij4@hotmail.com added to device 0
+2023-10-11 00:07:58,745 INFO Account ashley57navarrof0a@hotmail.com added to device 0
+2023-10-11 00:07:58,745 INFO Account kevin29_maisonetve@hotmail.com added to device 0
+2023-10-11 00:07:58,745 INFO Account maria_bernierldr5@hotmail.com added to device 0
+2023-10-11 00:07:58,745 INFO Account seth_vargaduqx@hotmail.com added to device 0
+2023-10-11 00:07:58,745 INFO Accounts retrieved for device id 1
+2023-10-11 00:07:58,746 INFO Account jamesbc_abreu5l@hotmail.com added to device 1
+2023-10-11 00:07:58,746 INFO Account gladys39mccartymow@hotmail.com added to device 1
+2023-10-11 00:07:58,746 INFO Account arthur15heatha93@hotmail.com added to device 1
+2023-10-11 00:07:59,853 INFO Device connection result: connected to 127.0.0.1:16384
+
+2023-10-11 00:07:59,894 INFO ret: (900, 1600)
+2023-10-11 00:07:59,982 INFO Device connection result: connected to 127.0.0.1:16416
+
+2023-10-11 00:08:00,033 INFO ret: (900, 1600)
+2023-10-11 00:08:00,034 INFO cmd: adb -s 127.0.0.1:16384 shell input tap 450.0 800.0
+2023-10-11 00:08:00,102 INFO result: 
+2023-10-11 00:08:00,102 INFO cmd: adb -s 127.0.0.1:16416 shell input tap 450.0 800.0
+2023-10-11 00:08:00,148 INFO result: 
+2023-10-11 00:08:03,102 INFO cmd: adb -s 127.0.0.1:16384 shell input tap 453 923
+2023-10-11 00:08:03,150 INFO result: 
+2023-10-11 00:08:03,150 INFO cmd: adb -s 127.0.0.1:16416 shell input tap 453 923
+2023-10-11 00:08:03,190 INFO result: 
+2023-10-11 00:08:04,160 INFO cmd: adb -s 127.0.0.1:16384 shell input tap 266 957
+2023-10-11 00:08:04,215 INFO result: 
+2023-10-11 00:08:04,215 INFO cmd: adb -s 127.0.0.1:16416 shell input tap 266 957
+2023-10-11 00:08:04,263 INFO result: 
+2023-10-11 00:08:05,218 INFO cmd: adb -s 127.0.0.1:16384 shell input tap 454 899
+2023-10-11 00:08:05,274 INFO result: 
+2023-10-11 00:08:05,274 INFO cmd: adb -s 127.0.0.1:16416 shell input tap 454 899
+2023-10-11 00:08:05,323 INFO result: 
+2023-10-11 00:08:06,278 INFO cmd: adb -s 127.0.0.1:16384 shell input tap 331 723
+2023-10-11 00:08:06,324 INFO result: 
+2023-10-11 00:08:06,324 INFO cmd: adb -s 127.0.0.1:16416 shell input tap 331 723
+2023-10-11 00:08:06,369 INFO result: 
+2023-10-11 00:08:07,325 INFO cmd: adb -s 127.0.0.1:16384 shell input text myra86wittermf2@hotmail.com
+2023-10-11 00:08:07,408 INFO result: 
+2023-10-11 00:08:07,408 INFO cmd: adb -s 127.0.0.1:16416 shell input text jamesbc_abreu5l@hotmail.com
+2023-10-11 00:08:07,512 INFO result: 
+2023-10-11 00:08:08,405 INFO cmd: adb -s 127.0.0.1:16384 shell input tap 356 815
+2023-10-11 00:08:08,459 INFO result: 
+2023-10-11 00:08:08,508 INFO cmd: adb -s 127.0.0.1:16416 shell input tap 356 815
+2023-10-11 00:08:08,553 INFO result: 
+2023-10-11 00:08:09,462 INFO cmd: adb -s 127.0.0.1:16384 shell input text c96kLThTUZ71CW1
+2023-10-11 00:08:09,562 INFO result: 
+2023-10-11 00:08:09,562 INFO cmd: adb -s 127.0.0.1:16416 shell input text I6wy3oWvWEzACYa
+2023-10-11 00:08:09,616 INFO result: 
+2023-10-11 00:08:10,556 INFO cmd: adb -s 127.0.0.1:16384 shell input tap 465 979
+2023-10-11 00:08:10,603 INFO result: 
+2023-10-11 00:08:10,620 INFO cmd: adb -s 127.0.0.1:16416 shell input tap 465 979
+2023-10-11 00:08:10,656 INFO result: 
+2023-10-11 00:08:15,612 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp0.png
+2023-10-11 00:08:16,666 INFO result: 
+2023-10-11 00:08:16,666 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp0.png workspace/16384/tmp0.png
+2023-10-11 00:08:16,720 INFO result: /sdcard/tmp0.png: 1 file pulled, 0 skipped. 43.9 MB/s (1292100 bytes in 0.028s)
+
+2023-10-11 00:08:16,721 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp0.png
+2023-10-11 00:08:17,564 INFO result: 
+2023-10-11 00:08:17,564 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp0.png workspace/16416/tmp0.png
+2023-10-11 00:08:17,658 INFO result: /sdcard/tmp0.png: 1 file pulled, 0 skipped. 18.8 MB/s (1222173 bytes in 0.062s)
+
+2023-10-11 00:08:17,762 INFO [shinjiyu] 1
+2023-10-11 00:08:17,817 INFO [shinjiyu] 2
+2023-10-11 00:08:17,823 INFO [shinjiyu] 3
+2023-10-11 00:08:18,325 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp1.png
+2023-10-11 00:08:19,345 INFO result: 
+2023-10-11 00:08:19,346 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp1.png workspace/16384/tmp1.png
+2023-10-11 00:08:19,413 INFO result: /sdcard/tmp1.png: 1 file pulled, 0 skipped. 30.8 MB/s (1292100 bytes in 0.040s)
+
+2023-10-11 00:08:19,449 INFO [shinjiyu] 1
+2023-10-11 00:08:19,502 INFO [shinjiyu] 2
+2023-10-11 00:08:19,508 INFO [shinjiyu] 3
+2023-10-11 00:08:20,009 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp1.png
+2023-10-11 00:08:20,736 INFO result: 
+2023-10-11 00:08:20,736 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp1.png workspace/16416/tmp1.png
+2023-10-11 00:08:20,789 INFO result: /sdcard/tmp1.png: 1 file pulled, 0 skipped. 57.7 MB/s (1014026 bytes in 0.017s)
+
+2023-10-11 00:08:20,830 INFO [shinjiyu] 1
+2023-10-11 00:08:20,884 INFO [shinjiyu] 2
+2023-10-11 00:08:20,890 INFO [shinjiyu] 3
+2023-10-11 00:08:21,392 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp2.png
+2023-10-11 00:08:22,135 INFO result: 
+2023-10-11 00:08:22,135 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp2.png workspace/16384/tmp2.png
+2023-10-11 00:08:22,175 INFO result: /sdcard/tmp2.png: 1 file pulled, 0 skipped. 72.1 MB/s (1047110 bytes in 0.014s)
+
+2023-10-11 00:08:22,210 INFO [shinjiyu] 1
+2023-10-11 00:08:22,263 INFO [shinjiyu] 2
+2023-10-11 00:08:22,270 INFO [shinjiyu] 3
+2023-10-11 00:08:22,772 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp2.png
+2023-10-11 00:08:23,356 INFO result: 
+2023-10-11 00:08:23,356 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp2.png workspace/16416/tmp2.png
+2023-10-11 00:08:23,397 INFO result: /sdcard/tmp2.png: 1 file pulled, 0 skipped. 73.5 MB/s (561390 bytes in 0.007s)
+
+2023-10-11 00:08:23,433 INFO [shinjiyu] 1
+2023-10-11 00:08:23,487 INFO [shinjiyu] 2
+2023-10-11 00:08:23,493 INFO [shinjiyu] 3
+2023-10-11 00:08:23,994 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp3.png
+2023-10-11 00:08:24,687 INFO result: 
+2023-10-11 00:08:24,687 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp3.png workspace/16384/tmp3.png
+2023-10-11 00:08:24,732 INFO result: /sdcard/tmp3.png: 1 file pulled, 0 skipped. 69.6 MB/s (1229325 bytes in 0.017s)
+
+2023-10-11 00:08:24,761 INFO [shinjiyu] 1
+2023-10-11 00:08:24,814 INFO [shinjiyu] 2
+2023-10-11 00:08:24,819 INFO [shinjiyu] 3
+2023-10-11 00:08:25,321 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp3.png
+2023-10-11 00:08:25,786 INFO result: 
+2023-10-11 00:08:25,786 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp3.png workspace/16416/tmp3.png
+2023-10-11 00:08:25,825 INFO result: /sdcard/tmp3.png: 1 file pulled, 0 skipped. 62.4 MB/s (412092 bytes in 0.006s)
+
+2023-10-11 00:08:25,863 INFO [shinjiyu] 1
+2023-10-11 00:08:25,915 INFO [shinjiyu] 2
+2023-10-11 00:08:25,921 INFO [shinjiyu] 3
+2023-10-11 00:08:26,422 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp4.png
+2023-10-11 00:08:27,116 INFO result: 
+2023-10-11 00:08:27,116 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp4.png workspace/16384/tmp4.png
+2023-10-11 00:08:27,175 INFO result: /sdcard/tmp4.png: 1 file pulled, 0 skipped. 42.4 MB/s (1210171 bytes in 0.027s)
+
+2023-10-11 00:08:27,202 INFO [shinjiyu] 1
+2023-10-11 00:08:27,255 INFO [shinjiyu] 2
+2023-10-11 00:08:27,260 INFO [shinjiyu] 3
+2023-10-11 00:08:27,762 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp4.png
+2023-10-11 00:08:28,620 INFO result: 
+2023-10-11 00:08:28,620 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp4.png workspace/16416/tmp4.png
+2023-10-11 00:08:28,675 INFO result: /sdcard/tmp4.png: 1 file pulled, 0 skipped. 56.3 MB/s (1510146 bytes in 0.026s)
+
+2023-10-11 00:08:28,712 INFO [shinjiyu] 1
+2023-10-11 00:08:28,767 INFO [shinjiyu] 2
+2023-10-11 00:08:28,772 INFO [shinjiyu] 3
+2023-10-11 00:08:29,274 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp5.png
+2023-10-11 00:08:29,573 INFO result: 
+2023-10-11 00:08:29,574 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp5.png workspace/16384/tmp5.png
+2023-10-11 00:08:29,603 INFO result: /sdcard/tmp5.png: 1 file pulled, 0 skipped. 55.9 MB/s (192499 bytes in 0.003s)
+
+2023-10-11 00:08:29,708 INFO [shinjiyu] 1
+2023-10-11 00:08:29,764 INFO [shinjiyu] 2
+2023-10-11 00:08:29,769 INFO [shinjiyu] 3
+2023-10-11 00:08:30,271 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp5.png
+2023-10-11 00:08:31,146 INFO result: 
+2023-10-11 00:08:31,146 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp5.png workspace/16416/tmp5.png
+2023-10-11 00:08:31,206 INFO result: /sdcard/tmp5.png: 1 file pulled, 0 skipped. 47.8 MB/s (1365214 bytes in 0.027s)
+
+2023-10-11 00:08:31,230 INFO [shinjiyu] 1
+2023-10-11 00:08:31,283 INFO [shinjiyu] 2
+2023-10-11 00:08:31,290 INFO [shinjiyu] 3
+2023-10-11 00:08:31,791 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp6.png
+2023-10-11 00:08:32,669 INFO result: 
+2023-10-11 00:08:32,669 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp6.png workspace/16384/tmp6.png
+2023-10-11 00:08:32,731 INFO result: /sdcard/tmp6.png: 1 file pulled, 0 skipped. 54.1 MB/s (2041101 bytes in 0.036s)
+
+2023-10-11 00:08:32,771 INFO [shinjiyu] 1
+2023-10-11 00:08:32,825 INFO [shinjiyu] 2
+2023-10-11 00:08:32,834 INFO [shinjiyu] 3
+2023-10-11 00:08:33,335 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp6.png
+2023-10-11 00:08:34,393 INFO result: 
+2023-10-11 00:08:34,393 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp6.png workspace/16416/tmp6.png
+2023-10-11 00:08:34,462 INFO result: /sdcard/tmp6.png: 1 file pulled, 0 skipped. 48.0 MB/s (1690739 bytes in 0.034s)
+
+2023-10-11 00:08:34,508 INFO [shinjiyu] 1
+2023-10-11 00:08:34,562 INFO [shinjiyu] 2
+2023-10-11 00:08:34,569 INFO [shinjiyu] 3
+2023-10-11 00:08:35,070 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp7.png
+2023-10-11 00:08:35,916 INFO result: 
+2023-10-11 00:08:35,917 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp7.png workspace/16384/tmp7.png
+2023-10-11 00:08:35,982 INFO result: /sdcard/tmp7.png: 1 file pulled, 0 skipped. 55.9 MB/s (2089049 bytes in 0.036s)
+
+2023-10-11 00:08:36,028 INFO [shinjiyu] 1
+2023-10-11 00:08:36,084 INFO [shinjiyu] 2
+2023-10-11 00:08:36,090 INFO [shinjiyu] 3
+2023-10-11 00:08:36,591 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp7.png
+2023-10-11 00:08:37,337 INFO result: 
+2023-10-11 00:08:37,337 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp7.png workspace/16416/tmp7.png
+2023-10-11 00:08:37,380 INFO result: /sdcard/tmp7.png: 1 file pulled, 0 skipped. 50.9 MB/s (884975 bytes in 0.017s)
+
+2023-10-11 00:08:37,427 INFO [shinjiyu] 1
+2023-10-11 00:08:37,483 INFO [shinjiyu] 2
+2023-10-11 00:08:37,490 INFO [shinjiyu] 3
+2023-10-11 00:08:37,991 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp8.png
+2023-10-11 00:08:38,611 INFO result: 
+2023-10-11 00:08:38,611 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp8.png workspace/16384/tmp8.png
+2023-10-11 00:08:38,658 INFO result: /sdcard/tmp8.png: 1 file pulled, 0 skipped. 51.8 MB/s (1127308 bytes in 0.021s)
+
+2023-10-11 00:08:38,692 INFO [shinjiyu] 1
+2023-10-11 00:08:38,745 INFO [shinjiyu] 2
+2023-10-11 00:08:38,751 INFO [shinjiyu] 3
+2023-10-11 00:08:39,252 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp8.png
+2023-10-11 00:08:39,985 INFO result: 
+2023-10-11 00:08:39,985 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp8.png workspace/16416/tmp8.png
+2023-10-11 00:08:40,033 INFO result: /sdcard/tmp8.png: 1 file pulled, 0 skipped. 64.0 MB/s (957619 bytes in 0.014s)
+
+2023-10-11 00:08:40,069 INFO [shinjiyu] 1
+2023-10-11 00:08:40,127 INFO [shinjiyu] 2
+2023-10-11 00:08:40,133 INFO [shinjiyu] 3
+2023-10-11 00:08:40,634 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp9.png
+2023-10-11 00:08:41,042 INFO result: 
+2023-10-11 00:08:41,042 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp9.png workspace/16384/tmp9.png
+2023-10-11 00:08:41,105 INFO result: /sdcard/tmp9.png: 1 file pulled, 0 skipped. 40.0 MB/s (733968 bytes in 0.017s)
+
+2023-10-11 00:08:41,140 INFO [shinjiyu] 1
+2023-10-11 00:08:41,195 INFO [shinjiyu] 2
+2023-10-11 00:08:41,201 INFO [shinjiyu] 3
+2023-10-11 00:08:41,703 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp9.png
+2023-10-11 00:08:42,695 INFO result: 
+2023-10-11 00:08:42,695 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp9.png workspace/16416/tmp9.png
+2023-10-11 00:08:42,740 INFO result: /sdcard/tmp9.png: 1 file pulled, 0 skipped. 71.1 MB/s (1396844 bytes in 0.019s)
+
+2023-10-11 00:08:42,769 INFO [shinjiyu] 1
+2023-10-11 00:08:42,827 INFO [shinjiyu] 2
+2023-10-11 00:08:42,834 INFO [shinjiyu] 3
+2023-10-11 00:08:43,336 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp10.png
+2023-10-11 00:08:43,739 INFO result: 
+2023-10-11 00:08:43,740 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp10.png workspace/16384/tmp10.png
+2023-10-11 00:08:43,781 INFO result: /sdcard/tmp10.png: 1 file pulled, 0 skipped. 49.6 MB/s (735987 bytes in 0.014s)
+
+2023-10-11 00:08:43,823 INFO [shinjiyu] 1
+2023-10-11 00:08:43,880 INFO [shinjiyu] 2
+2023-10-11 00:08:43,886 INFO [shinjiyu] 3
+2023-10-11 00:08:44,388 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp10.png
+2023-10-11 00:08:45,138 INFO result: 
+2023-10-11 00:08:45,138 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp10.png workspace/16416/tmp10.png
+2023-10-11 00:08:45,207 INFO result: /sdcard/tmp10.png: 1 file pulled, 0 skipped. 26.5 MB/s (1010086 bytes in 0.036s)
+
+2023-10-11 00:08:45,238 INFO [shinjiyu] 1
+2023-10-11 00:08:45,292 INFO [shinjiyu] 2
+2023-10-11 00:08:45,298 INFO [shinjiyu] 3
+2023-10-11 00:08:45,801 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp11.png
+2023-10-11 00:08:46,795 INFO result: 
+2023-10-11 00:08:46,796 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp11.png workspace/16384/tmp11.png
+2023-10-11 00:08:46,839 INFO result: /sdcard/tmp11.png: 1 file pulled, 0 skipped. 64.3 MB/s (1254199 bytes in 0.019s)
+
+2023-10-11 00:08:46,875 INFO [shinjiyu] 1
+2023-10-11 00:08:46,930 INFO [shinjiyu] 2
+2023-10-11 00:08:46,935 INFO [shinjiyu] 3
+2023-10-11 00:08:47,437 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp11.png
+2023-10-11 00:08:48,163 INFO result: 
+2023-10-11 00:08:48,163 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp11.png workspace/16416/tmp11.png
+2023-10-11 00:08:48,212 INFO result: /sdcard/tmp11.png: 1 file pulled, 0 skipped. 41.5 MB/s (1004183 bytes in 0.023s)
+
+2023-10-11 00:08:48,252 INFO [shinjiyu] 1
+2023-10-11 00:08:48,304 INFO [shinjiyu] 2
+2023-10-11 00:08:48,311 INFO [shinjiyu] 3
+2023-10-11 00:08:48,813 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp12.png
+2023-10-11 00:08:49,563 INFO result: 
+2023-10-11 00:08:49,563 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp12.png workspace/16384/tmp12.png
+2023-10-11 00:08:49,616 INFO result: /sdcard/tmp12.png: 1 file pulled, 0 skipped. 60.5 MB/s (1656956 bytes in 0.026s)
+
+2023-10-11 00:08:49,653 INFO [shinjiyu] 1
+2023-10-11 00:08:49,709 INFO [shinjiyu] 2
+2023-10-11 00:08:49,715 INFO [shinjiyu] 3
+2023-10-11 00:08:50,216 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp12.png
+2023-10-11 00:08:50,677 INFO result: 
+2023-10-11 00:08:50,678 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp12.png workspace/16416/tmp12.png
+2023-10-11 00:08:50,717 INFO result: /sdcard/tmp12.png: 1 file pulled, 0 skipped. 56.8 MB/s (785040 bytes in 0.013s)
+
+2023-10-11 00:08:50,758 INFO [shinjiyu] 1
+2023-10-11 00:08:50,814 INFO [shinjiyu] 2
+2023-10-11 00:08:50,820 INFO [shinjiyu] 3
+2023-10-11 00:08:51,321 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp13.png
+2023-10-11 00:08:52,085 INFO result: 
+2023-10-11 00:08:52,085 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp13.png workspace/16384/tmp13.png
+2023-10-11 00:08:52,140 INFO result: /sdcard/tmp13.png: 1 file pulled, 0 skipped. 53.9 MB/s (1676970 bytes in 0.030s)
+
+2023-10-11 00:08:52,172 INFO [shinjiyu] 1
+2023-10-11 00:08:52,222 INFO [shinjiyu] 2
+2023-10-11 00:08:52,228 INFO [shinjiyu] 3
+2023-10-11 00:08:52,730 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp13.png
+2023-10-11 00:08:53,162 INFO result: 
+2023-10-11 00:08:53,162 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp13.png workspace/16416/tmp13.png
+2023-10-11 00:08:53,200 INFO result: /sdcard/tmp13.png: 1 file pulled, 0 skipped. 65.8 MB/s (796263 bytes in 0.012s)
+
+2023-10-11 00:08:53,241 INFO [shinjiyu] 1
+2023-10-11 00:08:53,296 INFO [shinjiyu] 2
+2023-10-11 00:08:53,303 INFO [shinjiyu] 3
+2023-10-11 00:08:53,804 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp14.png
+2023-10-11 00:08:54,206 INFO result: 
+2023-10-11 00:08:54,206 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp14.png workspace/16384/tmp14.png
+2023-10-11 00:08:54,238 INFO result: /sdcard/tmp14.png: 1 file pulled, 0 skipped. 64.4 MB/s (464996 bytes in 0.007s)
+
+2023-10-11 00:08:54,270 INFO [shinjiyu] 1
+2023-10-11 00:08:54,322 INFO [shinjiyu] 2
+2023-10-11 00:08:54,328 INFO [shinjiyu] 3
+2023-10-11 00:08:54,830 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp14.png
+2023-10-11 00:08:55,803 INFO result: 
+2023-10-11 00:08:55,804 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp14.png workspace/16416/tmp14.png
+2023-10-11 00:08:55,867 INFO result: /sdcard/tmp14.png: 1 file pulled, 0 skipped. 67.5 MB/s (2039316 bytes in 0.029s)
+
+2023-10-11 00:08:55,896 INFO [shinjiyu] 1
+2023-10-11 00:08:55,950 INFO [shinjiyu] 2
+2023-10-11 00:08:55,956 INFO [shinjiyu] 3
+2023-10-11 00:08:56,457 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp15.png
+2023-10-11 00:08:56,856 INFO result: 
+2023-10-11 00:08:56,856 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp15.png workspace/16384/tmp15.png
+2023-10-11 00:08:56,892 INFO result: /sdcard/tmp15.png: 1 file pulled, 0 skipped. 62.4 MB/s (568649 bytes in 0.009s)
+
+2023-10-11 00:08:56,938 INFO [shinjiyu] 1
+2023-10-11 00:08:56,993 INFO [shinjiyu] 2
+2023-10-11 00:08:56,999 INFO [shinjiyu] 3
+2023-10-11 00:08:57,500 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp15.png
+2023-10-11 00:08:58,450 INFO result: 
+2023-10-11 00:08:58,451 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp15.png workspace/16416/tmp15.png
+2023-10-11 00:08:58,505 INFO result: /sdcard/tmp15.png: 1 file pulled, 0 skipped. 41.9 MB/s (1191376 bytes in 0.027s)
+
+2023-10-11 00:08:58,534 INFO [shinjiyu] 1
+2023-10-11 00:08:58,590 INFO [shinjiyu] 2
+2023-10-11 00:08:58,596 INFO [shinjiyu] 3
+2023-10-11 00:08:59,098 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp16.png
+2023-10-11 00:08:59,480 INFO result: 
+2023-10-11 00:08:59,481 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp16.png workspace/16384/tmp16.png
+2023-10-11 00:08:59,517 INFO result: /sdcard/tmp16.png: 1 file pulled, 0 skipped. 71.5 MB/s (566319 bytes in 0.008s)
+
+2023-10-11 00:08:59,557 INFO [shinjiyu] 1
+2023-10-11 00:08:59,613 INFO [shinjiyu] 2
+2023-10-11 00:08:59,619 INFO [shinjiyu] 3
+2023-10-11 00:09:00,121 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp16.png
+2023-10-11 00:09:01,106 INFO result: 
+2023-10-11 00:09:01,106 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp16.png workspace/16416/tmp16.png
+2023-10-11 00:09:01,153 INFO result: /sdcard/tmp16.png: 1 file pulled, 0 skipped. 49.9 MB/s (1146555 bytes in 0.022s)
+
+2023-10-11 00:09:01,183 INFO [shinjiyu] 1
+2023-10-11 00:09:01,238 INFO [shinjiyu] 2
+2023-10-11 00:09:01,243 INFO [shinjiyu] 3
+2023-10-11 00:09:01,745 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp17.png
+2023-10-11 00:09:02,141 INFO result: 
+2023-10-11 00:09:02,141 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp17.png workspace/16384/tmp17.png
+2023-10-11 00:09:02,187 INFO result: /sdcard/tmp17.png: 1 file pulled, 0 skipped. 63.9 MB/s (413601 bytes in 0.006s)
+
+2023-10-11 00:09:02,227 INFO [shinjiyu] 1
+2023-10-11 00:09:02,281 INFO [shinjiyu] 2
+2023-10-11 00:09:02,288 INFO [shinjiyu] 3
+2023-10-11 00:09:02,790 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp17.png
+2023-10-11 00:09:03,771 INFO result: 
+2023-10-11 00:09:03,771 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp17.png workspace/16416/tmp17.png
+2023-10-11 00:09:03,820 INFO result: /sdcard/tmp17.png: 1 file pulled, 0 skipped. 72.0 MB/s (1146361 bytes in 0.015s)
+
+2023-10-11 00:09:03,848 INFO [shinjiyu] 1
+2023-10-11 00:09:03,903 INFO [shinjiyu] 2
+2023-10-11 00:09:03,909 INFO [shinjiyu] 3
+2023-10-11 00:09:04,409 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp18.png
+2023-10-11 00:09:04,829 INFO result: 
+2023-10-11 00:09:04,829 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp18.png workspace/16384/tmp18.png
+2023-10-11 00:09:04,861 INFO result: /sdcard/tmp18.png: 1 file pulled, 0 skipped. 56.1 MB/s (370963 bytes in 0.006s)
+
+2023-10-11 00:09:04,899 INFO [shinjiyu] 1
+2023-10-11 00:09:04,954 INFO [shinjiyu] 2
+2023-10-11 00:09:04,960 INFO [shinjiyu] 3
+2023-10-11 00:09:05,461 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp18.png
+2023-10-11 00:09:06,419 INFO result: 
+2023-10-11 00:09:06,420 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp18.png workspace/16416/tmp18.png
+2023-10-11 00:09:06,473 INFO result: /sdcard/tmp18.png: 1 file pulled, 0 skipped. 40.9 MB/s (1144623 bytes in 0.027s)
+
+2023-10-11 00:09:06,501 INFO [shinjiyu] 1
+2023-10-11 00:09:06,557 INFO [shinjiyu] 2
+2023-10-11 00:09:06,563 INFO [shinjiyu] 3
+2023-10-11 00:09:07,064 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp19.png
+2023-10-11 00:09:07,333 INFO result: 
+2023-10-11 00:09:07,333 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp19.png workspace/16384/tmp19.png
+2023-10-11 00:09:07,363 INFO result: /sdcard/tmp19.png: 1 file pulled, 0 skipped. 1.8 MB/s (9087 bytes in 0.005s)
+
+2023-10-11 00:09:07,512 INFO [shinjiyu] 1
+2023-10-11 00:09:07,568 INFO [shinjiyu] 2
+2023-10-11 00:09:07,574 INFO [shinjiyu] 3
+2023-10-11 00:09:08,076 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp19.png
+2023-10-11 00:09:08,941 INFO result: 
+2023-10-11 00:09:08,941 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp19.png workspace/16416/tmp19.png
+2023-10-11 00:09:08,999 INFO result: /sdcard/tmp19.png: 1 file pulled, 0 skipped. 64.4 MB/s (2077066 bytes in 0.031s)
+
+2023-10-11 00:09:09,019 INFO [shinjiyu] 1
+2023-10-11 00:09:09,066 INFO [shinjiyu] 2
+2023-10-11 00:09:09,072 INFO [shinjiyu] 3
+2023-10-11 00:09:09,573 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp20.png
+2023-10-11 00:09:09,828 INFO result: 
+2023-10-11 00:09:09,828 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp20.png workspace/16384/tmp20.png
+2023-10-11 00:09:09,858 INFO result: /sdcard/tmp20.png: 1 file pulled, 0 skipped. 20.7 MB/s (48825 bytes in 0.002s)
+
+2023-10-11 00:09:10,046 INFO [shinjiyu] 1
+2023-10-11 00:09:10,104 INFO [shinjiyu] 2
+2023-10-11 00:09:10,110 INFO [shinjiyu] 3
+2023-10-11 00:09:10,611 INFO cmd: adb -s 127.0.0.1:16416 shell screencap -p /sdcard/tmp20.png
+2023-10-11 00:09:11,496 INFO result: 
+2023-10-11 00:09:11,496 INFO cmd: adb -s 127.0.0.1:16416 pull /sdcard/tmp20.png workspace/16416/tmp20.png
+2023-10-11 00:09:11,552 INFO result: /sdcard/tmp20.png: 1 file pulled, 0 skipped. 67.9 MB/s (2120620 bytes in 0.030s)
+
+2023-10-11 00:09:11,572 INFO [shinjiyu] 1
+2023-10-11 00:09:11,621 INFO [shinjiyu] 2
+2023-10-11 00:09:11,627 INFO [shinjiyu] 3
+2023-10-11 00:09:12,128 INFO cmd: adb -s 127.0.0.1:16384 shell screencap -p /sdcard/tmp21.png
+2023-10-11 00:09:12,392 INFO result: 
+2023-10-11 00:09:12,392 INFO cmd: adb -s 127.0.0.1:16384 pull /sdcard/tmp21.png workspace/16384/tmp21.png
+2023-10-11 00:09:12,419 INFO result: /sdcard/tmp21.png: 1 file pulled, 0 skipped. 13.0 MB/s (26856 bytes in 0.002s)
+
+2023-10-11 00:09:12,591 INFO [shinjiyu] 1
+2023-10-11 00:09:12,648 INFO [shinjiyu] 2
+2023-10-11 00:09:12,654 INFO [shinjiyu] 3
